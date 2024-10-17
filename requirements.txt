@@ -17,4 +17,4 @@ scikit_learn==1.5.2
 streamlit==1.39.0
 Wikipedia_API==0.7.1
 yfinance==0.2.44
-
+libtk8.6
